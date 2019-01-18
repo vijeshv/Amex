@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=gitest
+project.version=6.5
+project.original.version=6.5
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.8.0
+project.id=7aa1086f-6257-416f-a392-0fb41ae01ba8
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/vijeshv/Amex
