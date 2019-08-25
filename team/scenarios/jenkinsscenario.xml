@@ -1,7 +1,7 @@
 <scenario postMonitoringTime="-1" preMonitoringTime="-1"
     slaProfileEnabled="false" uid="jenkinsscenario" virtualUsersStates="true">
     <!--****** POPULATION POLICY ******-->
-    <population-policy name="Population1">
+    <population-policy name="MyPopulation">
         <duration-policy-entry iterations="1" time="180" timeUnit="0" type="2"/>
         <volume-policy-entry>
             <constant-volume-policy iterationNumber="1" userNumber="50"/>
