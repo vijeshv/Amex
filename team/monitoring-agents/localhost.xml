@@ -1,5 +1,5 @@
-<me-host loadWeight="1" sapSupport="false" standalone="false"
-    supportWANEmulation="false" uid="localhost" version="6.8.0;build=20190103-16">
+<me-host citrixSupport="false" loadWeight="1" sapSupport="false"
+    standalone="false" supportWANEmulation="false" uid="localhost" version="6.8.0;build=20190103-16">
     <!--****** LG NETWORK INTERFACES ******-->
     <lg-networkiface
         description="Microsoft Wi-Fi Direct Virtual Adapter"

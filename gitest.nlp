@@ -1,7 +1,7 @@
 # Project description file
 
 project.name=gitest
-project.version=6.5
+project.version=8.2
 project.original.version=6.5
 product.name=NeoLoad
 product.original.name=NeoLoad
