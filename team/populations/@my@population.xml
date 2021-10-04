@@ -17,7 +17,7 @@
             signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
             uploadLatency="0ms" uploadPacketLoss="0%"/>
     </split>
-    <split cache="1" factor="50.0" virtualUserUid="ushaidi">
+    <split cache="1" factor="50.0" virtualUserUid="jpet">
         <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
             connections="6" cookies="true" http2="true" name="browser.recorded"/>
         <wan-emulation-profile
